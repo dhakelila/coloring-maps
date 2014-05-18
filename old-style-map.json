@@ -1,0 +1,17 @@
+[
+  {
+    "elementType": "labels",
+    "stylers": [
+      { "hue": "#eeff00" },
+      { "visibility": "off" }
+    ]
+  },{
+    "stylers": [
+      { "hue": "#f6ff00" },
+      { "saturation": -57 },
+      { "lightness": 7 },
+      { "gamma": 0.64 }
+    ]
+  },{
+  }
+]
